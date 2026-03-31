@@ -6,7 +6,7 @@ This project was developed during a Data Analyst Internship at SkillCraft Techno
 ---
 
 ## Dashboard Architecture
-![Dashboard Screenshot](images/Superstoresales_dashboard.png)
+![Dashboard Screenshot](Superstore_sales_Analysis/images/Superstoresales_dashboard.png)
 *The dashboard provides a visual summary of KPIs and trends across multiple product dimensions.*
 
 ---
